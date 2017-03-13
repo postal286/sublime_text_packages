@@ -2,6 +2,14 @@
 
 This repository was created to save preferences and packages of text-editor sublime 3.
 To complete install copy this object of parameters into user settings of sublime and put the other files into Packages derectory.
+This setup contain following modules:
+	"Emmet",
+	"AutoFileName",
+	"Gist",
+	"Stylus",
+	"One Dark Material - Scheme",
+	"One Dark Color Scheme",
+	"Buffer Scroll"	
 
 {
 	"font_size": 13,
@@ -31,3 +39,9 @@ To complete install copy this object of parameters into user settings of sublime
 		"Vintage"
 	]
 }
+
+Settings for auto-leveling text. Add this string into Key Binding config:
+
+[
+    { "keys": ["alt+shift+f"], "command": "reindent" },
+]
