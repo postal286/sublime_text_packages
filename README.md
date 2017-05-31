@@ -12,12 +12,12 @@ This setup contain following modules:
 	"Buffer Scroll"	
 
 {
-	"font_size": 13,
+	"font_size": 16,
 	"show_definitions": false,
-	"auto_complete": false,
+	"auto_complete": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
-	"fold_buttons": false,
+	"fold_buttons": true,
 	"highlight_line": true,
 	"indent_guide_options":
 	[
